@@ -8,7 +8,7 @@
 
 ##
 - 🔭 today I work with back-end / front-end
-- 🌱 I’m studying node js 
+- 🌱 I’m studying HTML e CSS
 - 📫 email: vinimattei370@gmail.com
   
 
