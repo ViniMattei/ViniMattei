@@ -1,11 +1,5 @@
 ## Hi, I'm Vinicius 👋
 
-<div>
-  <a href "https://github.com/ViniMattei">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ViniMattei&show_icons=true&theme=tokyonight">
-     <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMattei&layout=compact&show_icons=true&theme=tokyonight">
-</div>
-
 Junior Backend Developer from Brazil 🇧🇷
 
 💻 Backend Development with Node.js
