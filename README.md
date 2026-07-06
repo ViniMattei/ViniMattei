@@ -1,4 +1,4 @@
-## Hello , I am Vinii 
+## Hi, I'm Vinicius 👋
 
 <div>
   <a href "https://github.com/ViniMattei">
@@ -6,10 +6,22 @@
      <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMattei&layout=compact&show_icons=true&theme=tokyonight">
 </div>
 
-##
-- 🔭 today I work with back-end / front-end
-- 🌱 I’m studying React
-- 📫 email: vinimattei370@gmail.com
+Junior Backend Developer from Brazil 🇧🇷
+
+💻 Backend Development with Node.js
+
+📚 Information Systems Student
+
+🚀 Currently learning
+• Node.js
+• TypeScript
+• Express
+• PostgreSQL
+• Docker
+
+📫 Contact
+LinkedIn
+Email
   
 
 <div style="display: inline_block"><br>
